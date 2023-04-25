@@ -1,5 +1,5 @@
-
 /* Your CSS Code here. */
 .holder{
-	text-align : center;
+	display : flex;
+	justify-content : center;
 }
