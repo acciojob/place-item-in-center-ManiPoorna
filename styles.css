@@ -1,13 +1,15 @@
-body{
+.holder{
+	height : 100vh;
+	background : yellow;
 	display : flex;
 	justify-content : center;
 	align-items : center;
-	background : pink;
-	height : 80vh;
 }
-.holder{
+.child{
+	display : flex;
+	align-items : center;
+	justify-content : center;
+	background : pink;
 	height : 100px;
 	width : 100px;
-	background : yellow;
-	
 }
