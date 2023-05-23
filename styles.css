@@ -1,5 +1,13 @@
-/* Your CSS Code here. */
-.holder{
+body{
 	display : flex;
 	justify-content : center;
+	align-items : center;
+	background : pink;
+	height : 80vh;
+}
+.holder{
+	height : 100px;
+	width : 100px;
+	background : yellow;
+	
 }
